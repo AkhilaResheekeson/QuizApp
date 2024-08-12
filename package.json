@@ -1,6 +1,6 @@
 {
   "name": "quiz-app",
-  "homepage" : "https://AkhilaResheekeson.github.io/QuizApp",
+  "homepage": "https://AkhilaResheekeson.github.io/QuizApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.1.1",
+    "main": "^1000.0.1"
   }
 }
