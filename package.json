@@ -1,5 +1,6 @@
 {
   "name": "quiz-app",
+  "homepage" : "https://AkhilaResheekeson.github.io/QuizApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
